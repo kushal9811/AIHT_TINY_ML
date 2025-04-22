@@ -49,10 +49,3 @@ Vibration signals from mechanical systems often carry rich information about the
 - *Note*: Placeholder dataset used in this repo. Replace with your sensor data for deployment.
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/vibration-anomaly-mha-autoencoder
-   cd vibration-anomaly-mha-autoencoder
