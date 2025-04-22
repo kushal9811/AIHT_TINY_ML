@@ -49,3 +49,6 @@ Vibration signals from mechanical systems often carry rich information about the
 - *Note*: Placeholder dataset used in this repo. Replace with your sensor data for deployment.
 
 ---
+
+## Deployment on Edge Impulse
+- https://studio.edgeimpulse.com/public/615043/live/impulse/1/learning/keras/7
